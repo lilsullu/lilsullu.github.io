@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+* {padding: 0;margin: 0;font-size: inherit;font-weight: inherit;box-sizing: border-box;color: inherit;}
+ul,ol,li,dl,dt,dd {list-style: none;}
+a {text-decoration: none;}
+img {vertical-align: middle;}
+input,button,select,option {background: transparent;outline: none;border: none;}
+body {color: #333;font-family: 'Noto Sans KR', sans-serif;line-height: 1;}
